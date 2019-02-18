@@ -17,3 +17,26 @@ Uygulama gerçekleştirilirken, Android Studio 3.0 üzerinde Google tarafından 
 ## --Veritabanı Tasarımı
 Projedeki veritabanının ER diyagramı şu şekildedir;
 ![social helper er 2](https://user-images.githubusercontent.com/11167289/52975847-264c5500-33d8-11e9-941b-0e1116b8aa57.png)
+
+
+---------------
+
+Uygulama dahilinde test edilmiş özellikler aşağıda verilmiştir.
+- Kullanıcı kayıt olma eylemi
+- Kullanıcı giriş eylemi
+- Kullanıcı mail onayının gerçekleşmesi
+- Kullanıcı profil bilgilerini güncelleyebilme eylemi
+- Kullanıcı şifre değiştirme eylemi
+- Profil resmi ve konum erişimi için gereken iznin sağlanması
+- Resim ekleme sonrası veritabanına sağlıklı kayıt edilip edilmediği
+- Gerçek zamanlı verilerin her kullanıcı tarafından görülebilmesi
+- Sohbet odası oluşturma eylemi
+- Sohbet odası seviye sorgulama eylemi
+- Sohbet odasından okunmayan mesajların bildirime düşmesi ve görüntülenmesi eylemi
+- Harita arayüzünde kullanıcının mevcut konumunu bulma eylemi
+- Eklenen konumun tüm kullanıcılar tarafından görülebilmesi
+- Uygulamadaki butonların beklenen fonksiyonları gerçekleştirip gerçekleştirmediği
+- Veri tabanından verilerin doğru bir şekilde çekilmesi
+- Veritabanı servis kısmından gönderilen bildirimlerin ulaşması
+- Uygulamanın arka plana atıldığında kullanıcının sistemden düşmemesi
+- Kullanıcının uygulamadan sağlıklı bir şekilde çıkış yapabilmesi
