@@ -40,3 +40,9 @@ Uygulama dahilinde test edilmiş özellikler aşağıda verilmiştir.
 - Veritabanı servis kısmından gönderilen bildirimlerin ulaşması
 - Uygulamanın arka plana atıldığında kullanıcının sistemden düşmemesi
 - Kullanıcının uygulamadan sağlıklı bir şekilde çıkış yapabilmesi
+
+## --Bazı Ekran Görüntüleri
+![ekran1](https://user-images.githubusercontent.com/11167289/52976160-6b24bb80-33d9-11e9-9a97-3efab5818316.jpg)![ekran2](https://user-images.githubusercontent.com/11167289/52976196-95767900-33d9-11e9-94dc-3a462dabfaef.jpg)![ekran3](https://user-images.githubusercontent.com/11167289/52976218-ade69380-33d9-11e9-9bf0-73bed9ba5571.jpg)
+
+
+
