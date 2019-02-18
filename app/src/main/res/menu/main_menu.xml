@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_add"
+        android:icon="@mipmap/ic_add_white_24dp"
+        android:title="Add Post"
+        app:showAsAction="always" />
+    <item android:id="@+id/menuHesapAyarlari" android:title="Hesap Ayarları"></item>
+    <item android:id="@+id/menuHarita" android:title="Harita"></item>
+    <item android:id="@+id/menuSohbet" android:title="Sohbet Odası"></item>
+    <item android:id="@+id/postGonder" android:title="Post Gönder"></item>
+    <item android:id="@+id/postlarGonder" android:title="Postlar Gönder"></item>
+    <item android:id="@+id/main_menu" android:title="Main Menu"></item>
+    <item android:id="@+id/menuCikisYap" android:title="Çıkış Yap"></item>
+
+
+</menu>

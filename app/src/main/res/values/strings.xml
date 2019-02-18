@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Social Helper</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Harita</string>
+    <string name="title_activity_maps2">Harita</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_title">Login</string>
+    <string name="create_act">Create Account</string>
+    <string name="post_title">Post Başlığı</string>
+    <string name="post_description">Post Açıklaması</string>
+    <string name="submit_text">Gönder</string>
+    <string name="firstName">İsim</string>
+    <string name="last_name">Soy İsim</string>
+    <string name="promoter_prompt">Uygulamayı sevdiğiniz için teşekkür ederiz</string>
+    <string name="detractor_prompt">Uygulamamızla ilgili sorun yaşamanız için üzgünüz, yaşadığınız sorunları olabildiğince çabuk ele almaya çalışacağız.</string>
+    <string name="thanks_prompt">Anketi değerlendirdiğiniz için teşekkür ederiz!</string>
+    <string name="error_prompt">Anket Tamamlandı! Teşekkürler :)</string>
+</resources>

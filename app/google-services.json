@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "321470051293",
+    "firebase_url": "https://social-helper-1905.firebaseio.com",
+    "project_id": "social-helper-1905",
+    "storage_bucket": "social-helper-1905.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321470051293:android:5554629a405c04f2",
+        "android_client_info": {
+          "package_name": "com.yusufemre.socialhelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321470051293-5lfs7s1ecmu2l1vdjf05napnint6ec9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyqRTDkFz_KoRMIlcjcDsZfrr5ubKkfkU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
